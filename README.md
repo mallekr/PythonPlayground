@@ -1,2 +1,2 @@
 # PythonPlayground
-Python testing and play with Anaconda and other.
+Messing around with Python code.
